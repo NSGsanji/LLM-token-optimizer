@@ -49,9 +49,9 @@ dev = [
 sto = "smarttokenoptimizer.cli.main:main"
 
 [project.urls]
-Homepage = "https://github.com/NSGsanji/ai-cred-management"
-Repository = "https://github.com/NSGsanji/ai-cred-management"
-Changelog = "https://github.com/NSGsanji/ai-cred-management/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/NSGsanji/LLM-token-optimizer"
+Repository = "https://github.com/NSGsanji/LLM-token-optimizer"
+Changelog = "https://github.com/NSGsanji/LLM-token-optimizer/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/smarttokenoptimizer"]
