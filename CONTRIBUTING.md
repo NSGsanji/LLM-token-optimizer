@@ -1,4 +1,4 @@
-# Contributing to SmartTokenOptimizer
+# Contributing to LLM-Token-Optimizer
 
 Thanks for your interest in improving SmartTokenOptimizer! This project aims to
 be a widely-adopted, production-grade framework, so we value small, well-tested,
@@ -7,7 +7,7 @@ incremental contributions.
 ## Getting started
 
 ```bash
-git clone https://github.com/NSGsanji/ai-cred-management.git
+git clone https://github.com/NSGsanji/LLM-token-optimizer.git
 cd ai-cred-management
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev,tiktoken]"
