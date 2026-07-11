@@ -1,6 +1,6 @@
 # Contributing to LLM-Token-Optimizer
 
-Thanks for your interest in improving SmartTokenOptimizer! This project aims to
+Thanks for your interest in improving LLM-Token-Optimizer! This project aims to
 be a widely-adopted, production-grade framework, so we value small, well-tested,
 incremental contributions.
 
@@ -26,8 +26,7 @@ pip install -e ".[dev,tiktoken]"
    pytest
    ```
 
-4. Update `CHANGELOG.md` under `## [Unreleased]`.
-5. Open a pull request with a concise summary.
+4. Open a pull request with a concise summary.
 
 ## Code standards
 
